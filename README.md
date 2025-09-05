@@ -13,7 +13,4 @@ This project explores an ML pipeline for wine data. The idea is to first predict
 The pipeline design and data sources are still in development. Updates will be added as the project progresses.
 
 ## Repository Structure  
-- `data/` – datasets (raw, processed, external)  
-- `notebooks/` – Jupyter notebooks for exploration & prototyping  
-- `src/` – source code (data processing, models, utils)  
-- `README.md` – project documentation  
+
